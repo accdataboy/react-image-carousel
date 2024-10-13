@@ -1,1 +1,3 @@
-# react-image-carousel
+# Image carousel using React
+
+Created from tutorial
